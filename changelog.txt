@@ -1,3 +1,6 @@
+v0.3.26
+- use kodi.tv URLs
+
 v0.3.25
 - fix issue with the older python2.6
 
